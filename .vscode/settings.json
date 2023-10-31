@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "li2283-18.members.linode.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "group": "theives_db",
+            "database": "test_db",
+            "username": "postgres",
+            "password": "CodingTemple4L..",
+            "name": "test_db"
+        }
+    ]
+}
